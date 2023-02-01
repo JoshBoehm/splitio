@@ -9,11 +9,11 @@ const config = {
 
 	kit: {
     		paths: {
-      		base: main ? '' : '/JoshBoehm/splitio',
+      		base: main ? '' : '/splitio',
    	},
     	// If you are not using a .nojekyll file, change your appDir to something not starting with an underscore.
     	// For example, instead of '_app', use 'app_', 'internal', etc.
-    	appDir: 'internal',
+    	//appDir: 'internal',
 };
 
 export default config;
